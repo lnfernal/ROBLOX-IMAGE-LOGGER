@@ -11,3 +11,6 @@ Educational purposes only please don't use this maliciously this is very powerfu
 
 
 Just change the image and the stub link
+
+#Disclaimer
+This program is for educational purposes only. It is not very practical for actual account hacking seeing how much time it takes.
